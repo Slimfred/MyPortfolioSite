@@ -80,6 +80,9 @@ label {
 }
 
 /**** Home page ****/
+#home-page {
+  padding-bottom: 2%;
+}
 .carousel {
   margin: 1% 5% 0;
 }

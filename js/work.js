@@ -2,12 +2,12 @@ var workProjects = [
   {
     title: "My first website",
     pic: "img/supspeechsol-row.jpg",
-    link: "http://www.superiorspeechsolutions.com/"
+    link: "http://supspeechsolfirstsite.bitballoon.com"
   },
   {
-    title: "Redesign in Process",
-    pic: "img/supspeechsol-uc-row.jpg",
-    link: "http://anntestsite.bitballoon.com/"
+    title: "Updated Website",
+    pic: "img/supspeechsol-update-row.jpg",
+    link: "http://www.superiorspeechsolutions.com/"
   },
   {
     title: "Calculator Design",
@@ -18,6 +18,11 @@ var workProjects = [
     title: "Yummy Cookies! web app",
     pic: "img/yummy-cookies-row.png",
     link: "https://yummycookies.herokuapp.com/"
+  },
+  {
+    title: "Ruby - Rock, Paper, Scissors",
+    pic: "img/rps-ruby.png",
+    link: "https://github.com/Slimfred/RockPaperScissors"
   }
 ];
 
